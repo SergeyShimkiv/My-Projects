@@ -9,4 +9,4 @@
 Проведена проверка статистической разницы долей Z-критерием.  
 
 Использованы библиотеки:  
-###### pandas, matplotlib, plotly, scipy
+###### Pandas, Matplotlib, Plotly, Scipy
