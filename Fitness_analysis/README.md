@@ -6,6 +6,6 @@
 портреты пользователей: выделены наиболее яркие группы, охарактеризованы их
 основные свойства; проанализированы основные признаки, наиболее сильно влияющие
 на отток.  
-###### KMeans, Machine Learning, дендрограмма, RandomForestClassifier, LogisticRegression
+###### KMeans, Machine Learning, Дендрограмма, RandomForestClassifier, LogisticRegression
 Использованы библиотеки:
-###### Matplotlib, Pandas, Scikit-learn, Seaborn, sklearn
+###### Matplotlib, Pandas, Scikit-learn, Seaborn, Sklearn
